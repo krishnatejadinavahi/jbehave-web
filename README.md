@@ -29,7 +29,7 @@ JDK required: 1.7 (or above)
 
 ### Encoding
 
-Configure IDE to use UTF-8 for all files
+Configure IDE to use UTF-8 for all the files
 Configure Maven by adding "-Dfile.encoding=UTF-8" to $MAVEN_OPTS 
  
 ### IDE Integration
